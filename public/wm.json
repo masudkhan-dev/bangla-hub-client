@@ -1,0 +1,257 @@
+{
+    "A": [
+      {
+        "id": 1,
+        "word": "abate",
+        "meaning": "to reduce in amount, degree, or severity"
+      },
+      {
+        "id": 27,
+        "word": "absolve",
+        "meaning": "to declare someone free from guilt, obligation, or punishment"
+      },
+      {
+        "id": 51,
+        "word": "aberration",
+        "meaning": "a departure from what is normal, usual, or expected"
+      },
+      {
+        "id": 75,
+        "word": "adversity",
+        "meaning": "difficulties or misfortune"
+      }
+    ],
+    "B": [
+      {
+        "id": 2,
+        "word": "benevolent",
+        "meaning": "well meaning and kindly"
+      },
+      {
+        "id": 28,
+        "word": "blatant",
+        "meaning": "done openly and unashamedly; obvious"
+      },
+      {
+        "id": 52,
+        "word": "beguile",
+        "meaning": "to charm or enchant, often in a deceptive way"
+      },
+      {
+        "id": 76,
+        "word": "bland",
+        "meaning": "lacking strong features or characteristics and therefore uninteresting"
+      }
+    ],
+    "C": [
+      {
+        "id": 3,
+        "word": "candid",
+        "meaning": "truthful and straightforward"
+      },
+      {
+        "id": 29,
+        "word": "camaraderie",
+        "meaning": "mutual trust and friendship among people who spend a lot of time together"
+      },
+      {
+        "id": 53,
+        "word": "capricious",
+        "meaning": "given to sudden and unaccountable changes of mood or behavior"
+      },
+      {
+        "id": 77,
+        "word": "cacophony",
+        "meaning": "a harsh, discordant mixture of sounds"
+      }
+    ],
+    "D": [
+      {
+        "id": 4,
+        "word": "diligent",
+        "meaning": "having or showing care and conscientiousness in one's work or duties"
+      },
+      {
+        "id": 30,
+        "word": "deprecate",
+        "meaning": "express disapproval of"
+      },
+      {
+        "id": 78,
+        "word": "dubious",
+        "meaning": "hesitating or doubting; not to be relied upon"
+      },
+      {
+        "id": 54,
+        "word": "dormant",
+        "meaning": "inactive but capable of becoming active"
+      }
+    ],
+    "E": [
+      {
+        "id": 5,
+        "word": "elucidate",
+        "meaning": "to make something clear; explain"
+      },
+      {
+        "id": 31,
+        "word": "emulate",
+        "meaning": "to match or surpass, typically by imitation"
+      },
+      {
+        "id": 55,
+        "word": "exacerbate",
+        "meaning": "to make a problem, situation, or feeling worse"
+      },
+      {
+        "id": 79,
+        "word": "ephemeral",
+        "meaning": "lasting for a very short time"
+      }
+    ],
+    "F": [
+      {
+        "id": 6,
+        "word": "facetious",
+        "meaning": "treating serious issues with deliberately inappropriate humor"
+      },
+      {
+        "id": 32,
+        "word": "frivolous",
+        "meaning": "not having any serious purpose or value"
+      },
+      {
+        "id": 56,
+        "word": "futile",
+        "meaning": "incapable of producing any useful result; pointless"
+      },
+      {
+        "id": 80,
+        "word": "flabbergasted",
+        "meaning": "extremely surprised or shocked"
+      }
+    ],
+    "G": [
+      {
+        "id": 7,
+        "word": "gregarious",
+        "meaning": "fond of company; sociable"
+      },
+      {
+        "id": 33,
+        "word": "garrulous",
+        "meaning": "excessively talkative, especially on trivial matters"
+      },
+      {
+        "id": 57,
+        "word": "gregarious",
+        "meaning": "sociable; enjoying the company of others"
+      },
+      {
+        "id": 81,
+        "word": "gloat",
+        "meaning": "to dwell on one's own success or another's misfortune with smugness"
+      }
+    ],
+    "H": [
+      {
+        "id": 8,
+        "word": "hapless",
+        "meaning": "unfortunate or unlucky"
+      },
+      {
+        "id": 34,
+        "word": "hasten",
+        "meaning": "to be quick to do something"
+      },
+      {
+        "id": 58,
+        "word": "hone",
+        "meaning": "to sharpen or refine a skill or ability"
+      },
+      {
+        "id": 82,
+        "word": "hilarious",
+        "meaning": "extremely funny"
+      }
+    ],
+    "I": [
+      {
+        "id": 9,
+        "word": "idiosyncratic",
+        "meaning": "relating to idiosyncrasy; peculiar to the individual"
+      },
+      {
+        "id": 35,
+        "word": "irrevocable",
+        "meaning": "not able to be changed or reversed"
+      },
+      {
+        "id": 59,
+        "word": "insipid",
+        "meaning": "lacking flavor or interest"
+      },
+      {
+        "id": 83,
+        "word": "impasse",
+        "meaning": "a situation where no progress is possible, especially because of disagreement"
+      }
+    ],
+    "J": [
+      {
+        "id": 10,
+        "word": "juxtapose",
+        "meaning": "to place side by side for comparison"
+      },
+      {
+        "id": 36,
+        "word": "jovial",
+        "meaning": "cheerful and friendly"
+      },
+      {
+        "id": 60,
+        "word": "juxtapose",
+        "meaning": "to place two things side by side for comparison"
+      },
+      {
+        "id": 84,
+        "word": "jeopardy",
+        "meaning": "danger of loss, harm, or failure"
+      }
+    ],
+    "K": [
+      {
+        "id": 37,
+        "word": "kismet",
+        "meaning": "fate; destiny"
+      },
+      {
+        "id": 61,
+        "word": "kaleidoscope",
+        "meaning": "a constantly changing pattern or sequence of elements"
+      },
+      {
+        "id": 85,
+        "word": "knead",
+        "meaning": "to work dough or clay by pressing, folding, and stretching"
+      }
+    ],
+    "L": [
+      {
+        "id": 38,
+        "word": "loquacious",
+        "meaning": "talkative"
+      },
+      {
+        "id": 62,
+        "word": "lament",
+        "meaning": "to express sorrow, mourning, or regret"
+      },
+      {
+        "id": 86,
+        "word": "luminous",
+        "meaning": "giving off light; bright or shining"
+      }
+    ]
+  }
+  
